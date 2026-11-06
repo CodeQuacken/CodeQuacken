@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to CodeQuacken
+
+I'm an IT professional with over 7 years of hands-on experience supporting enterprise, and manufacturing environments. 
+
+Throughout my career, I've helped employees become more productive, mentored junior technicians, resolved complex technical issues, and collaborated closely with infrastructure teams and other departments to maintain reliable IT operations and support business continuity.
+
+My background includes Windows administration, Active Directory, Microsoft 365, endpoint support, employee onboarding and offboarding, technical troubleshooting, and IT operations. I'm currently expanding my expertise in PowerShell automation, systems administration, and cybersecurity.
+
+I created this GitHub to document the tools I build, the problems I solve, and my continued growth as an IT professional.
 
 <!--
 **CodeQuacken/CodeQuacken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
