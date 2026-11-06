@@ -34,7 +34,59 @@ I created this GitHub to document the tools I build, the problems I solve, and m
 - Cybersecurity analysis, auditing, and security automation
 - Network security and infrastructure troubleshooting
 
+## Professional Highlights
 
+- **Enterprise IT Support:** Provide advanced technical support for 500+ users across enterprise and manufacturing environments, resolving complex endpoint, application, access, and networking issues.
+- **Infrastructure & Systems Administration:** Support Active Directory, Entra ID, Windows Server, Exchange Online, Group Policy, and enterprise infrastructure operations.
+- **Endpoint Deployment & Management:** Deploy and maintain Windows devices using KACE and SCCM, including operating system upgrades, software deployments, and hardware refreshes.
+- **Virtualization:** Independently built and configured a Hyper-V virtual machine, including operating system installation, networking, and permissions.
+- **Security & Access Management:** Support MFA, account provisioning, access reviews, endpoint security, and malware remediation.
+- **Technical Leadership:** Mentor junior IT technicians, develop troubleshooting documentation, and collaborate with infrastructure teams to resolve complex issues.
+
+## Certifications & Education
+
+### Professional Certifications
+- **CompTIA A+** — Certified
+- **LPI Linux Essentials** — Certified
+- **ITIL Foundation** — Previously earned (lapsed)
+
+### Education
+**Western Governors University (WGU)**  
+B.S. Cybersecurity and Information Assurance — In Progress
+
+### Professional Development
+- CompTIA Network+ — Studying
+- CompTIA Security+ — Studying
+- PowerShell Scripting & IT Automation — Hands-on Development
+
+## Featured Projects
+
+I'm developing a collection of practical IT administration, automation, and cybersecurity projects that demonstrate real-world technical problem-solving.
+
+### PowerShell IT Automation Toolkit
+**Status:** In Development
+
+A collection of PowerShell tools designed to automate common IT administration tasks, perform system diagnostics, monitor infrastructure health, and generate reports.
+
+**Technologies:** PowerShell, Windows, VS Code
+
+### Windows Security & Compliance Auditor
+**Status:** Planned
+
+A PowerShell-based auditing tool designed to evaluate Windows endpoint security configurations and produce actionable compliance reports.
+
+**Technologies:** PowerShell, Windows Security, Security Auditing
+
+### Active Directory Administration Lab
+**Status:** Planned
+
+A simulated enterprise environment for demonstrating Active Directory administration, identity management, Group Policy, and account lifecycle automation.
+
+**Technologies:** Windows Server, Active Directory, Group Policy, Hyper-V
+
+---
+
+*Projects are developed in isolated lab environments using simulated data and documented testing procedures.*
 
 <!--
 **CodeQuacken/CodeQuacken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
